@@ -15,6 +15,9 @@ Download our ShanghaiTechGaze+ dataset: [OneDrive](https://yien01-my.sharepoint.
 
 Our previous ShanghaiTechGaze dataset is also released in [Github](https://github.com/dongzelian/multi-view-gaze).
 
+# The camera parameters
+Camera parameters are saved in [camera](https://github.com/svip-lab/RGBD-Gaze/tree/master/camera) folder. 'color.mat' and 'depth.mat' are the intrinsic parameters of color camera and depth camera, respectively. 'ex.txt' is the extrinsic parameters of them. 
+
 
 # Citation
 ```
